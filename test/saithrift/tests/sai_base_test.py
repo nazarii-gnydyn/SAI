@@ -9,7 +9,6 @@ import os
 import logging
 import unittest
 
-
 import ptf
 from ptf.base_tests import BaseTest
 from ptf import config
